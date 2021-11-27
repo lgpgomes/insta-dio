@@ -13,7 +13,8 @@ Este projeto foi criado durante o Bootcamp de HTML Web Developer da Digital Inno
 
 ## Notas 💢
 
-- Implementado imagens com transição, assim como na página oficial. 
+- Implementado imagens com transição, assim como na página oficial;
+- Para rodar, abra a index.html.
 
 ## Licença 📄
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
